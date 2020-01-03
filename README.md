@@ -1,2 +1,2 @@
-# NAME: __Peerawas muanfoo____________
-# STUDENT ID:______620610803_______
+# NAME: __Peerawas muanfoo
+# STUDENT ID:______620610803
